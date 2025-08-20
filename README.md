@@ -8,6 +8,7 @@ NEW_RELIC_LICENSE_KEY
 
 Shelly S Plug returns the following:
 
+```json
 {
   "wifi_sta": {...},
   "cloud": {...},
@@ -35,4 +36,5 @@ Shelly S Plug returns the following:
     }
   ]
 }
+```
 
